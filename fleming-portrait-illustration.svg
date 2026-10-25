@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-labelledby="title desc">
+<title id="title">Alexander Fleming</title><desc id="desc">Minh họa vector tự thiết kế cho website học tập; không phải ảnh tư liệu lịch sử.</desc>
+<rect width="400" height="360" rx="24" fill="#f7faf9"/><path d="M25 28 H375" stroke="#e5b65c" stroke-width="4" stroke-linecap="round"/>
+
+<circle cx="200" cy="150" r="70" fill="#e2c39a"/><path d="M125 148 Q120 60 200 58 Q280 62 275 150 L260 115 Q230 80 195 94 Q165 120 140 116Z" fill="#f0eee7" stroke="#263d49" stroke-width="5"/>
+<ellipse cx="174" cy="150" rx="16" ry="11" fill="#fff"/><ellipse cx="226" cy="150" rx="16" ry="11" fill="#fff"/><circle cx="176" cy="150" r="5" fill="#263d49"/><circle cx="224" cy="150" r="5" fill="#263d49"/><path d="M190 170 L183 194 L207 194" fill="none" stroke="#9c7150" stroke-width="5" stroke-linecap="round"/><path d="M178 213 Q200 228 222 213" fill="none" stroke="#704d40" stroke-width="5" stroke-linecap="round"/>
+<path d="M105 315 Q110 250 155 238 L200 260 L245 238 Q290 250 295 315Z" fill="#f5f7f7" stroke="#263d49" stroke-width="5"/><path d="M177 241 L200 275 L223 241" fill="none" stroke="#147d78" stroke-width="7"/>
+
+<rect x="18" y="304" width="364" height="40" rx="12" fill="#102c3b"/><text x="200" y="329" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#ffffff">Minh họa chân dung · hình minh họa</text>
+</svg>

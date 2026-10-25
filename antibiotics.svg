@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-labelledby="title desc">
+<title id="title">Nghiên cứu kháng sinh</title><desc id="desc">Minh họa vector tự thiết kế cho website học tập; không phải ảnh tư liệu lịch sử.</desc>
+<rect width="400" height="360" rx="24" fill="#f7faf9"/><path d="M25 28 H375" stroke="#e5b65c" stroke-width="4" stroke-linecap="round"/>
+
+<rect x="120" y="110" width="160" height="80" rx="40" fill="#e5f2ec" stroke="#147d78" stroke-width="6" transform="rotate(-28 200 150)"/><path d="M190 100 L225 175" stroke="#147d78" stroke-width="6" transform="rotate(-28 200 150)"/><g fill="#c88d40"><circle cx="110" cy="225" r="10"/><circle cx="285" cy="90" r="8"/><circle cx="300" cy="245" r="11"/><circle cx="95" cy="100" r="7"/></g><path d="M90 270 Q200 300 310 270" fill="none" stroke="#c88d40" stroke-width="5" stroke-dasharray="7 9"/>
+
+<rect x="18" y="304" width="364" height="40" rx="12" fill="#102c3b"/><text x="200" y="329" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#ffffff">Minh họa kháng sinh · hình minh họa</text>
+</svg>

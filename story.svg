@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 500" role="img" aria-labelledby="title desc">
+<title id="title">Alexander Fleming và câu chuyện penicillin</title><desc id="desc">Nội dung minh họa học tập được lưu offline; không phải video.</desc>
+<rect width="970" height="500" rx="24" fill="#f7faf9"/>
+<path d="M35 35 H935" stroke="#147d78" stroke-width="5" stroke-linecap="round"/>
+<text x="40" y="75" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#147d78">NỘI DUNG NHÚNG · HOẠT ĐỘNG OFFLINE</text>
+<text x="40" y="125" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#102c3b">Alexander Fleming và câu chuyện penicillin</text>
+<g>
+<rect x="35" y="170" width="280" height="270" rx="22" fill="#ffffff" stroke="#d8e2df" stroke-width="2"/>
+<rect x="53" y="190" width="244" height="7" rx="3" fill="#147d78"/>
+<text x="57" y="230" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#147d78">1922</text>
+<text x="57" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#102c3b">LYSOZYME</text>
+<foreignObject x="55" y="290" width="240" height="125"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#102c3b;">Fleming mô tả một chất tự nhiên có khả năng tác động lên một số vi khuẩn.</div></foreignObject>
+</g><g>
+<rect x="345" y="170" width="280" height="270" rx="22" fill="#ffffff" stroke="#d8e2df" stroke-width="2"/>
+<rect x="363" y="190" width="244" height="7" rx="3" fill="#147d78"/>
+<text x="367" y="230" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#147d78">1928</text>
+<text x="367" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#102c3b">QUAN SÁT PENICILLIN</text>
+<foreignObject x="365" y="290" width="240" height="125"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#102c3b;">Ông nhận thấy nấm mốc ức chế vi khuẩn và tìm hiểu hiện tượng bất thường.</div></foreignObject>
+</g><g>
+<rect x="655" y="170" width="280" height="270" rx="22" fill="#ffffff" stroke="#d8e2df" stroke-width="2"/>
+<rect x="673" y="190" width="244" height="7" rx="3" fill="#147d78"/>
+<text x="677" y="230" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#147d78">1940s–1945</text>
+<text x="677" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#102c3b">NGHIÊN CỨU TIẾP NỐI</text>
+<foreignObject x="675" y="290" width="240" height="125"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#102c3b;">Florey, Chain và các cộng sự phát triển penicillin để sử dụng điều trị.</div></foreignObject>
+</g>
+<text x="40" y="475" font-family="Arial,sans-serif" font-size="14" fill="#102c3b">Tư liệu tóm tắt phục vụ học tập · Xem nguồn tham khảo trên website để kiểm chứng.</text>
+</svg>
